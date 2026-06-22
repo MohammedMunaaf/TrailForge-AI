@@ -81,7 +81,7 @@ export default function Register() {
               <input
                 type="text"
                 required
-                placeholder="John Doe"
+                placeholder="Enter Your Name"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
                 disabled={loading}

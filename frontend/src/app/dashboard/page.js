@@ -340,7 +340,7 @@ export default function Dashboard() {
             <div className="flex justify-between items-center border-b border-slate-800 pb-4">
               <div>
                 <h3 className="text-lg font-bold text-white">Create New Travel Plan</h3>
-                <p className="text-xs text-slate-400 mt-0.5">Let Gemini build your dream day-by-day plan</p>
+                <p className="text-xs text-slate-400 mt-0.5">Let Gemini build your personalized day-by-day plan</p>
               </div>
               <button
                 onClick={() => !formLoading && setShowCreateModal(false)}
