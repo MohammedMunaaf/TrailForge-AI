@@ -4,8 +4,25 @@ Trao AI Travel Planner is a secure, multi-user, responsive full-stack web applic
 
 ---
 
-## 🚀 Live Demo & Deployment
- - Will be updated after deployment.
+## 📸 Application Preview
+
+### Landing Page
+![Landing](screenshots/landing.png)
+
+### Authentication
+![Login](screenshots/login.png)
+
+### AI Trip Planner
+![Planner](screenshots/create-trip.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Itinerary Management
+![Itinerary](screenshots/itinerary.png)
+
+### Packing Assistant
+![Packing](screenshots/packing.png)
 
 ---
 
@@ -228,7 +245,7 @@ Use the following checklist before final submission or deployment:
    - `MONGO_URI`
    - `JWT_SECRET`
    - `GEMINI_API_KEY`
-   - `CLIENT_URL`
+   
 5. Set the start command:
    ```bash
    node server.js
