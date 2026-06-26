@@ -1,6 +1,6 @@
-# Trao AI Travel Planner
+# TrailForge AI Travel Planner
 
-Trao AI Travel Planner is a secure, multi-user, responsive full-stack web application that allows users to plan, customize, and manage detailed travel itineraries using Google Gemini AI. Users provide travel criteria (destination, duration, budget tier, and interests) to generate a day-by-day itinerary, estimated hotel recommendations, a financial cost ledger, and an AI weather-aware packing list checklist.
+TrailForge AI Travel Planner is a secure, multi-user, responsive full-stack web application that allows users to plan, customize, and manage detailed travel itineraries using Google Gemini AI. Users provide travel criteria (destination, duration, budget tier, and interests) to generate a day-by-day itinerary, estimated hotel recommendations, a financial cost ledger, and an AI weather-aware packing list checklist.
 
 ---
 
@@ -160,7 +160,7 @@ Displays a checklist-based packing list and persists packed/unpacked status in M
    ```
 3. Set your environment keys inside `.env`:
    - `PORT=5000`
-   - `MONGO_URI=mongodb+srv://...` (or a local instance `mongodb://localhost:27017/trao-travel`)
+   - `MONGO_URI=mongodb+srv://...` (or a local instance `mongodb://localhost:27017/TrailForge-travel`)
    - `JWT_SECRET=any_random_string`
    - `GEMINI_API_KEY=your_gemini_api_key_here`
 4. Install dependencies:
@@ -193,7 +193,7 @@ Displays a checklist-based packing list and persists packed/unpacked status in M
 ## 📁 Suggested Project Structure
 
 ```text
-trao-travel/
+TrailForge-travel/
 ├── backend/
 │   ├── controllers/
 │   ├── middleware/
