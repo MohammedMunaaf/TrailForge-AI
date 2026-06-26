@@ -27,7 +27,7 @@ export default function Home() {
             <Plane className="w-6 h-6" />
           </div>
           <span className="text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-slate-200 to-indigo-400 bg-clip-text text-transparent">
-            Trao AI
+            TrailForge AI
           </span>
         </div>
         <div className="flex items-center gap-4">
@@ -134,7 +134,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="max-w-7xl mx-auto w-full px-6 py-8 border-t border-slate-900 text-center text-xs text-slate-500 z-10">
-        <p>&copy; {new Date().getFullYear()} Trao AI Travel Planner. Built with Google Gemini 2.5 API.</p>
+        <p>&copy; {new Date().getFullYear()} TrailForge AI Travel Planner. Built with Google Gemini 2.5 API.</p>
       </footer>
     </div>
   );

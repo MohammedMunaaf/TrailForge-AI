@@ -59,7 +59,7 @@ export default function Register() {
             <div className="bg-indigo-600 p-2 rounded-xl text-white group-hover:scale-105 transition">
               <Plane className="w-6 h-6" />
             </div>
-            <span className="text-xl font-extrabold tracking-tight text-white">Trao AI</span>
+            <span className="text-xl font-extrabold tracking-tight text-white">TrailForge AI</span>
           </Link>
           <h2 className="text-2xl font-bold mt-6 text-white text-center">Create an Account</h2>
           <p className="text-xs text-slate-400 mt-1">Start planning your journeys securely</p>

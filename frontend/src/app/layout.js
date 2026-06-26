@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Trao AI Travel Planner - Smart Day-by-Day Travel Architect",
+  title: "TrailForge AI Travel Planner - Smart Day-by-Day Travel Architect",
   description: "Secure, multi-user AI Travel planner generating interactive itineraries, budgets, hotel recommendations, and packing lists with Google Gemini API.",
 };
 

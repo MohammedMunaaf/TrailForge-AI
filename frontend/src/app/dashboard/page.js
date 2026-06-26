@@ -132,7 +132,7 @@ export default function Dashboard() {
               <Plane className="w-5 h-5" />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-white leading-tight">Trao AI Dashboard</h1>
+              <h1 className="text-lg font-bold text-white leading-tight">TrailForge AI Dashboard</h1>
               <p className="text-[10px] text-slate-400 font-mono">Signed in</p>
             </div>
           </div>

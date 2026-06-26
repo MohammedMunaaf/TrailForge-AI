@@ -21,7 +21,7 @@ app.use('/api/trips', require('./routes/tripRoutes'));
 
 // Gateway index ping route
 app.get('/', (req, res) => {
-  res.json({ message: 'Trao AI Travel Planner Backend API is online.' });
+  res.json({ message: 'TrailForge AI Travel Planner Backend API is online.' });
 });
 
 const PORT = process.env.PORT || 5000;
